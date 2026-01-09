@@ -24,7 +24,7 @@ The project is organized into three main directories to separate concerns:
 | **Database** | MongoDB (Mongoose) |
 | **Authentication** | JWT (JSON Web Tokens) |
 | **File Storage** | Cloudinary (for profile & doctor images) |
-| **Payments** | Stripe / Razorpay (Optional/As per tutorial) |
+| **Payments** | Stripe / Razorpay |
 
 ---
 
